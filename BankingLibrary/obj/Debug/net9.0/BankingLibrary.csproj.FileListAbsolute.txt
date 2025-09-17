@@ -1,0 +1,13 @@
+C:\Users\Eto\BankingLibrary\obj\Debug\net9.0\BankingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eto\BankingLibrary\obj\Debug\net9.0\BankingLibrary.AssemblyInfoInputs.cache
+C:\Users\Eto\BankingLibrary\obj\Debug\net9.0\BankingLibrary.AssemblyInfo.cs
+C:\Users\Eto\BankingLibrary\obj\Debug\net9.0\BankingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Eto\BankingLibrary\obj\Debug\net9.0\BankingLibrary.sourcelink.json
+C:\Users\Eto\BankingLibrary\bin\Debug\net9.0\BankingLibrary.deps.json
+C:\Users\Eto\BankingLibrary\bin\Debug\net9.0\BankingLibrary.dll
+C:\Users\Eto\BankingLibrary\bin\Debug\net9.0\BankingLibrary.pdb
+C:\Users\Eto\BankingLibrary\obj\Debug\net9.0\BankingLibrary.csproj.AssemblyReference.cache
+C:\Users\Eto\BankingLibrary\obj\Debug\net9.0\BankingLibrary.dll
+C:\Users\Eto\BankingLibrary\obj\Debug\net9.0\refint\BankingLibrary.dll
+C:\Users\Eto\BankingLibrary\obj\Debug\net9.0\BankingLibrary.pdb
+C:\Users\Eto\BankingLibrary\obj\Debug\net9.0\ref\BankingLibrary.dll
