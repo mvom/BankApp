@@ -29,12 +29,16 @@ features:
 BankingApp/
 ├─ BankingLibrary/ # Bibliothèque partagée
 │ └─ Database.cs
+
 ├─ TCPserver/ # Serveur TCP
 │ └─ Server.cs
+
 ├─ TCPclient/ # Client utilisateur
 │ └─ Client.cs
+
 ├─ TCPmanager/ # Console manager
 │ └─ Manager.cs
+
 ├─ bank.db # Base SQLite partagée
 └─ BankingApp.sln # Solution .NET
 
