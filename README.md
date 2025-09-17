@@ -7,8 +7,11 @@ description: |
   All projects share a SQLite database to store accounts and balances.
 
   - Server: centralizes all client requests and manages the database.
+    
   - Client: allows users to view their balance and perform transfers.
+    
   - Manager: console to add, remove, and list all clients.
+    
   - BankingLibrary: shared library containing all database operations.
 
 features:
