@@ -56,7 +56,7 @@ BankingApp/
 
 ### Server
 
-```powershell
+powershell
 cd TCPserver
 dotnet run
 
