@@ -56,14 +56,8 @@ BankingApp/
 
 ### Server
 
-powershell
+```powershell
 cd TCPserver
-dotnet run
-
-cd TCPclient
-dotnet run
-
-cd TCPmanager
 dotnet run
 
 
