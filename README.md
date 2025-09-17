@@ -1,37 +1,27 @@
----
-# BankingApp
+title: "BankingApp"
+description: |
+  TCP banking application in C# with client, server, and manager consoles.
 
-TCP banking application in C# with client, server, and manager consoles.
+  BankingApp is a TCP banking application in C# composed of multiple modular projects: server, client, and manager console.
+  All projects share a SQLite database to store accounts and balances.
 
-## Description
+  - Server: centralizes all client requests and manages the database.
+  - Client: allows users to view their balance and perform transfers.
+  - Manager: console to add, remove, and list all clients.
+  - BankingLibrary: shared library containing all database operations.
 
-**BankingApp** is a TCP banking application in C# composed of multiple modular projects: server, client, and manager console.
-All projects share a **SQLite database** to store accounts and balances.
+features:
+  current:
+    - Add, remove, and list clients (Manager)
+    - View balance and perform transfers (Client)
+    - Shared SQLite database for all projects
+    - Modular architecture using the BankingLibrary
+  future:
+    - Client authentication (passwords) 🔒
+    - Transaction log to track operation history 📝
+    - Graphical interface with WinForms or WPF 🎨
+    - Network security using SSL/TLS 🌐
 
-* **Server**: centralizes all client requests and manages the database.
-* **Client**: allows users to view their balance and perform transfers.
-* **Manager**: console to add, remove, and list all clients.
-* **BankingLibrary**: shared library containing all database operations.
-
----
-
-## Features
-
-### Current Features
-
-* Add, remove, and list clients (Manager)
-* View balance and perform transfers (Client)
-* Shared SQLite database for all projects
-* Modular architecture using the `BankingLibrary`
-
-### Future Features / Advanced Ideas
-
-* **Client authentication** (passwords) 🔒
-* **Transaction log** to track operation history 📝
-* **Graphical interface** with WinForms or WPF 🎨
-* **Network security** using SSL/TLS to encrypt communications between client and server 🌐
-
----
 
 ## File Organisation 
 
